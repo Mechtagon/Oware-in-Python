@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		450355CE247C063B0061876A /* oware.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = oware.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		450355C3247C05F70061876A = {
 			isa = PBXGroup;
 			children = (
+				450355CE247C063B0061876A /* oware.py */,
 			);
 			sourceTree = "<group>";
 		};
