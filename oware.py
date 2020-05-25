@@ -4,7 +4,7 @@ def intro():
     print("Would you like to start the tutorial? (Y/N)")
     tanswer = input() #Does the player want to start the tutorial?
     print(tutanser)
-    "How does this work?"
+    "How does git work?"
 
 if __name__ == "__main__":
     intro()
